@@ -54,7 +54,7 @@ nav a.current {
 
 p {
   padding-bottom: 14px;
-  display: block;
+  display: none;
 }
 
 #form {
@@ -80,8 +80,4 @@ input {
 
 button {
   background-color: #cccccc;
-}
-
-.open {
-  display: block;
 }
